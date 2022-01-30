@@ -473,7 +473,7 @@ section {
 .breadcrumbs {
   margin-top: 73px;
   text-align: center;
-  background: #5fcf80;
+  background: #e36e35;
   padding: 30px 0;
   color: #fff;
 }
@@ -1234,7 +1234,7 @@ section {
 }
 #footer .footer-top {
   padding: 60px 0 30px 0;
-  background: #f9faf9;
+  background: #1b133a;
 }
 #footer .footer-top .footer-contact {
   margin-bottom: 30px;
@@ -1251,7 +1251,7 @@ section {
   line-height: 24px;
   margin-bottom: 0;
   font-family: "Raleway", sans-serif;
-  color: #777777;
+  color: #ffffff;
 }
 #footer .footer-top h4 {
   font-size: 16px;
@@ -1283,7 +1283,7 @@ section {
   padding-top: 0;
 }
 #footer .footer-top .footer-links ul a {
-  color: #777777;
+  color: #ffffff;
   transition: 0.3s;
   display: inline-block;
   line-height: 1;
