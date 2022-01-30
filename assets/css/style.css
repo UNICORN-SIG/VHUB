@@ -19,7 +19,7 @@ a {
 }
 
 a:hover {
-  color: #86db9f;
+  color: #e36e35;
   text-decoration: none;
 }
 
@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #5fcf80;
+  background: #e36e35;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -540,7 +540,7 @@ section {
 .counts .counters span {
   font-size: 48px;
   display: block;
-  color: #5fcf80;
+  color: #e36e35;
   font-weight: 700;
 }
 .counts .counters p {
@@ -557,7 +557,7 @@ section {
 --------------------------------------------------------------*/
 .why-us .content {
   padding: 30px;
-  background: #5fcf80;
+  background: #e36e35;
   border-radius: 4px;
   color: #fff;
 }
@@ -594,7 +594,7 @@ section {
 .why-us .icon-boxes .icon-box i {
   font-size: 32px;
   padding: 18px;
-  color: #5fcf80;
+  color: #e36e35;
   margin-bottom: 30px;
   background: #ecf9f0;
   border-radius: 50px;
@@ -672,7 +672,7 @@ section {
 }
 .courses .course-content h4 {
   font-size: 14px;
-  background: #5fcf80;
+  background: #e36e35;
   padding: 7px 14px;
   color: #fff;
   margin: 0;
@@ -1348,7 +1348,7 @@ section {
 #footer .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #5fcf80;
+  background: #e36e35;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
