@@ -231,11 +231,8 @@ h1, h2, h3, h4, h5, h6 {
 .navbar .dropdown ul a i {
   font-size: 12px;
 }
-.active:hover{
+.navbar .dropdown ul a:hover, .active:hover, .navbar .dropdown ul  .navbar .dropdown ul li:hover > a {
   color:#e36e35;
-}
-.navbar .dropdown ul a:hover, .navbar .dropdown ul  .navbar .dropdown ul li:hover > a {
-  color: #5fcf80;
 }
 .navbar .dropdown:hover > ul {
   opacity: 1;
