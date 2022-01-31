@@ -1205,7 +1205,7 @@ section {
   border-radius: 50px;
 }
 .contact .php-email-form button[type=submit]:hover {
-  background: #3ac162;
+  background:#e36e35;
 }
 @-webkit-keyframes animate-loading {
   0% {
