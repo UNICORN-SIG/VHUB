@@ -1232,7 +1232,7 @@ section {
 #footer {
   color: #ffffff;
   font-size: 14px;
-  background: #00143b;
+  background:#1b133a;
 }
 #footer .footer-top {
   padding: 60px 0 30px 0;
@@ -1349,7 +1349,7 @@ section {
 #footer .social-links a {
   font-size: 18px;
   display: inline-block;
-  background:#1b133a;
+  background:#e36e35;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
