@@ -1292,7 +1292,6 @@ section {
 }
 #footer .footer-top .footer-links ul a:hover {
   text-decoration: none;
-  color: #ffa500;
 }
 #footer .footer-newsletter {
   font-size: 15px;
@@ -1306,12 +1305,12 @@ section {
 }
 #footer .footer-newsletter form {
   margin-top: 30px;
-  background: #ffa500;
+  background:white;
   padding: 6px 10px;
   position: relative;
   border-radius: 50px;
   text-align: left;
-  border: 1px solid #e0e5e2;
+  border: 1px solid white;
 }
 #footer .footer-newsletter form input[type=email] {
   border: 0;
