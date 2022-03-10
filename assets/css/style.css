@@ -404,7 +404,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
 }
 #hero .btn-get-started:hover {
-  background: #5fcf80;
+  background: #FFA500;
   border: 2px solid #5fcf80;
 }
 @media (min-width: 1024px) {
@@ -1290,7 +1290,7 @@ section {
 }
 #footer .footer-top .footer-links ul a:hover {
   text-decoration: none;
-  color: #5fcf80;
+  color: #FFA500;
 }
 #footer .footer-newsletter {
   font-size: 15px;
